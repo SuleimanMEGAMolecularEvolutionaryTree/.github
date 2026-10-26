@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SuleimanMEGAMolecularEvolutionaryTree/SuleimanMEGAMolecularEvolutionaryTree/master/docs/logo_pro.png" alt="Suleiman MEGA Logo" width="220" />
+  <img src="https://raw.githubusercontent.com/SuleimanMEGAMolecularEvolutionaryTree/.github/main/profile/logo_pro.png" alt="Suleiman MEGA Molecular Evolutionary Tree Logo" width="260" />
 
   # Suleiman MEGA Molecular Evolutionary Tree
   ### Molecular Evolutionary Genetics Analysis (MEGA 12 & ITOL) — Vertebrate Phylogenetics & Timetree Reconstruction
 
   [![Live Web Portal](https://img.shields.io/badge/Live_Portal-github.io-00f2fe?style=for-the-badge&logo=githubpages&logoColor=black)](https://suleimanmegamolecularevolutionarytree.github.io/)
-  [![MEGA 12](https://img.shields.io/badge/Software-MEGA_12-10b981?style=for-the-badge&logo=dna&logoColor=white)](https://www.megasoftware.net/)
-  [![ITOL v6](https://img.shields.io/badge/Visualization-ITOL_v6-3b82f6?style=for-the-badge&logo=tree&logoColor=white)](https://itol.embl.de/)
+  [![MEGA 12](https://img.shields.io/badge/Software-MEGA_12-10b981?style=for-the-badge)](https://www.megasoftware.net/)
+  [![ITOL v6](https://img.shields.io/badge/Visualization-ITOL_v6-3b82f6?style=for-the-badge)](https://itol.embl.de/)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 </div>
